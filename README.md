@@ -1,7 +1,7 @@
 # GameAdvisor
 
 ![GameAdvisor Logo](./img/logo.png)
-
+.
 GameAdvisor è un'applicazione web che fornisce informazioni su videogiochi popolari e di tendenza. Consente agli utenti di esplorare dettagli sui giochi, visualizzare screenshot e scoprire nuove uscite. L'applicazione è progettata per offrire un'esperienza senza soluzione di continuità e visivamente accattivante per gli appassionati di videogiochi.
 
 ## Indice
